@@ -11,6 +11,7 @@
     <modules>
         <module>biggest-group-in-matrix</module>
         <module>binary-tree-insert-no-rebalancing</module>
+        <module>heap-tree-insert</module>
     </modules>
 
 
